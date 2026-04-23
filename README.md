@@ -48,7 +48,4 @@ Durante el desarrollo aprendí:
 ---
 
 ##  Instalación
-
-1. Clona el repositorio:
-```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+https://github.com/melaniecarolinah92-sketch/tienda-ropa.git

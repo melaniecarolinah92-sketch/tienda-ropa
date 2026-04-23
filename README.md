@@ -50,8 +50,17 @@ Durante el desarrollo aprendí:
 ##  Instalación
 https://github.com/melaniecarolinah92-sketch/tienda-ropa.git
 
+##  Uso
+1. Ejecuta el programa en Python
+2. Regístrate o inicia sesión
+3. Explora los productos disponibles
+4. Agrega productos al carrito
+5. Si eres administrador, gestiona los productos desde el panel
+   
 ##  Imagen
 <img width="1304" height="700" alt="Captura de pantalla 2025-10-27 071224" src="https://github.com/user-attachments/assets/1fc85144-de42-4350-936f-39fa67900441" />
 
+##  Autor
+- Melanie Carolina Hernandez Anastacio
 
 
